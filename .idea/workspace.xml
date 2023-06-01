@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d86e8b3f-6074-4126-ba27-dbd3cc7372d8" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+>>>>>>> nowy_branch
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +70,7 @@
       <option name="project" value="LOCAL" />
       <updated>1685545071567</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="tipical message1 this is my message1">
       <created>1685650616000</created>
       <option name="number" value="00004" />
@@ -109,6 +114,9 @@
       <updated>1685650989758</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+=======
+    <option name="localTasksCounter" value="4" />
+>>>>>>> nowy_branch
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,20 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+<<<<<<< HEAD
+=======
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+>>>>>>> nowy_branch
             </State>
           </value>
         </entry>
@@ -130,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tipical message" />
+<<<<<<< HEAD
     <MESSAGE value="tipical message1 this is my message1" />
     <MESSAGE value="tipical message2137 this is my message2137" />
     <MESSAGE value="tipical message360 this is my message360" />
@@ -137,5 +160,8 @@
     <MESSAGE value="this is my typical message xfcghdrxgbxd" />
     <MESSAGE value="this is my typical message xfcghdrxgbxddgzxgzxf" />
     <option name="LAST_COMMIT_MESSAGE" value="this is my typical message xfcghdrxgbxddgzxgzxf" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="tipical message" />
+>>>>>>> nowy_branch
   </component>
 </project>
